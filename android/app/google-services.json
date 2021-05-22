@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "207202255093",
+    "project_id": "amplified-land-296215",
+    "storage_bucket": "amplified-land-296215.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207202255093:android:cfe69d0af26bdd63a9c5bc",
+        "android_client_info": {
+          "package_name": "com.example.notes_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207202255093-5uabn3agtc9m0orr7jtd11c2em5hk0ak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.notes_app",
+            "certificate_hash": "19d0e108ea77672b6a806a0d8e47f0c5c56ddbd6"
+          }
+        },
+        {
+          "client_id": "207202255093-5mp9cecge44s4jui72q6trk73r2r2fm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqv_B15a3Hjq2T81CmZNoZ0u0rQZSAys0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207202255093-5mp9cecge44s4jui72q6trk73r2r2fm3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
